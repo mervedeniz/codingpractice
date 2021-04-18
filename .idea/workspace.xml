@@ -18,9 +18,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1rLnXlvSqrpnYJ1TWHU6xHWDbxZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="70ec67d3-f05a-4cad-9138-84c865e6f089" name="Default Changelist" comment="" />
